@@ -1,0 +1,22 @@
+# XAMPP / local files
+xampp/
+*.log
+
+# Environment / secrets
+.env
+config/database.php
+
+# Uploaded user files
+uploads/
+uploads/cv/
+uploads/cvs/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
